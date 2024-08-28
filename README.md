@@ -31,3 +31,4 @@ for this purpose.
 ![Screenshot 2024-08-27 214433](https://github.com/user-attachments/assets/bea2c4ef-8ee9-484b-940c-933bd022ddfe)
 
 ### Result:
+Text pre processing is done with Rapid Miner and output in received.
